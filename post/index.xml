@@ -1,4 +1,41 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts | Yichi Zhang's Website</title><link>https://studentweb.uvic.ca/~zhangyichi/post/</link><atom:link href="https://studentweb.uvic.ca/~zhangyichi/post/index.xml" rel="self" type="application/rss+xml"/><description>Posts</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate><image><url>https://studentweb.uvic.ca/~zhangyichi/media/icon_huc3322009b2c773de063a5cf29787c6db_89195_512x512_fill_lanczos_center_3.png</url><title>Posts</title><link>https://studentweb.uvic.ca/~zhangyichi/post/</link></image><item><title>Welcome to Wowchemy, the website builder for Hugo</title><link>https://studentweb.uvic.ca/~zhangyichi/post/getting-started/</link><pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate><guid>https://studentweb.uvic.ca/~zhangyichi/post/getting-started/</guid><description>&lt;h2 id="overview">Overview&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts | Yichi Zhang's Website</title><link>https://studentweb.uvic.ca/~zhangyichi/post/</link><atom:link href="https://studentweb.uvic.ca/~zhangyichi/post/index.xml" rel="self" type="application/rss+xml"/><description>Posts</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><image><url>https://studentweb.uvic.ca/~zhangyichi/media/icon_huc3322009b2c773de063a5cf29787c6db_89195_512x512_fill_lanczos_center_3.png</url><title>Posts</title><link>https://studentweb.uvic.ca/~zhangyichi/post/</link></image><item><title/><link>https://studentweb.uvic.ca/~zhangyichi/post/documentary_findingredspear/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://studentweb.uvic.ca/~zhangyichi/post/documentary_findingredspear/</guid><description>&lt;hr>
+&lt;p>title: Welcome to Wowchemy, the website builder for Hugo
+subtitle: Welcome 👋 We know that first impressions are important, so we&amp;rsquo;ve populated your new site with some initial content to help you get familiar with everything in no time.&lt;/p>
+&lt;h1 id="summary-for-listings-and-search-engines">Summary for listings and search engines&lt;/h1>
+&lt;p>summary: Welcome 👋 We know that first impressions are important, so we&amp;rsquo;ve populated your new site with some initial content to help you get familiar with everything in no time.&lt;/p>
+&lt;h1 id="link-this-post-with-a-project">Link this post with a project&lt;/h1>
+&lt;p>projects: []&lt;/p>
+&lt;h1 id="date-published">Date published&lt;/h1>
+&lt;p>date: &amp;ldquo;2020-12-13T00:00:00Z&amp;rdquo;&lt;/p>
+&lt;h1 id="date-updated">Date updated&lt;/h1>
+&lt;p>lastmod: &amp;ldquo;2020-12-13T00:00:00Z&amp;rdquo;&lt;/p>
+&lt;h1 id="is-this-an-unpublished-draft">Is this an unpublished draft?&lt;/h1>
+&lt;p>draft: True&lt;/p>
+&lt;h1 id="show-this-page-in-the-featured-widget">Show this page in the Featured widget?&lt;/h1>
+&lt;p>featured: false&lt;/p>
+&lt;h1 id="featured-image">Featured image&lt;/h1>
+&lt;h1 id="place-an-image-named-featuredjpgpng-in-this-pages-folder-and-customize-its-options-here">Place an image named &lt;code>featured.jpg/png&lt;/code> in this page&amp;rsquo;s folder and customize its options here.&lt;/h1>
+&lt;p>image:
+caption: &amp;lsquo;Image credit: &lt;a href="https://unsplash.com/photos/CpkOjOcXdUY" target="_blank" rel="noopener">&lt;strong>Unsplash&lt;/strong>&lt;/a>&amp;rsquo;
+focal_point: &amp;quot;&amp;quot;
+placement: 2
+preview_only: false&lt;/p>
+&lt;p>authors:&lt;/p>
+&lt;ul>
+&lt;li>admin&lt;/li>
+&lt;/ul>
+&lt;p>tags:&lt;/p>
+&lt;ul>
+&lt;li>Academic&lt;/li>
+&lt;li>开源&lt;/li>
+&lt;/ul>
+&lt;p>categories:&lt;/p>
+&lt;ul>
+&lt;li>Demo&lt;/li>
+&lt;li>教程&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="overview">Overview&lt;/h2>
 &lt;ol>
 &lt;li>The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li>
 &lt;li>The template can be modified and customised to suit your needs. It&amp;rsquo;s a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a &lt;strong>no-code solution (write in Markdown and customize with YAML parameters)&lt;/strong> and having &lt;strong>flexibility to later add even deeper personalization with HTML and CSS&lt;/strong>&lt;/li>
