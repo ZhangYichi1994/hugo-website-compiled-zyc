@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: https://studentweb.uvic.ca/~zhangyichi/sitemap.xml
+Sitemap: https://zhangyichi.ml/sitemap.xml
